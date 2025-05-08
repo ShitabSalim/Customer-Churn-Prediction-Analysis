@@ -29,7 +29,7 @@ Customer churn is a key metric in many industries, especially telecom. This proj
 
 ## 📷 Screenshots
 
-![Dashboard](images/Churn Summary.png)
+![Dashboard](images/Churn_Summary.png)
 
 ---
 
