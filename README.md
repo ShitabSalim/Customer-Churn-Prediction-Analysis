@@ -29,7 +29,7 @@ Customer churn is a key metric in many industries, especially telecom. This proj
 
 ## 📷 Screenshots
 
-*Add snapshots of Power BI dashboards and Python plots here*
+![Dashboard](images/Churn Summary.png)
 
 ---
 
